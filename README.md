@@ -3,8 +3,8 @@
 - 💡 I like to explore new technologies, develop software and solving problems.
 - 🎓 I am currently studying Computer Science and Engineering.
 - 💻 I am learning more about Backend Development & Cyber Security.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/sufian.tanzid/)
-- ✉️ You can send me an email at as.sufian6@gmail.com
+- 📫 How to reach me: [Facebook](https://www.facebook.com/syedrafinulhuq/)
+- ✉️ You can send me an email at amrh.cse@gmail.com
 
 <img src="https://data.whicdn.com/images/326817490/original.gif" width="300" height="250" align="right"/>
 
