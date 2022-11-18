@@ -2,7 +2,7 @@
 
 - 💡 I like to explore new technologies, develop software and solving problems.
 - 🎓 I am currently studying Computer Science and Engineering.
-- 💻 I am learning more about Backend Development & Cyber Security.
+- 💻 I am learning more about Full Stack Developement.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/syedrafinulhuq/)
 - ✉️ You can send me an email at amrh.cse@gmail.com
 
