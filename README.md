@@ -7,8 +7,8 @@
 
 
 I am a Student, Designer, Developer, And also Sometime Volunteer !!!
-- 🔭  I'm currently Working on Android App Development and Web Development!
-- 🌱  I'm currently learning Python,Django,Javascript and Many More.
+- 🔭  I'm currently Working on Machine Learning and Web Development!
+- 🌱  I'm currently learning Javascript, React and Many More.
 - 👯  I'm looking to collaborate with other Developers.
 - 🥅  2023 goals: to be an entry level Frontend developer.
 - 🌩️  Fun fact: I love to play chess, read books, travel, games, design.
