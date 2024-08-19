@@ -8,7 +8,7 @@
 
 I am a Student, Designer, Developer, And also Sometime Volunteer !!!
 - 🔭  I'm currently Working on Cyber Security and Web Development!
-- 🌱  I'm currently learning Python, Javascrip, React and Many More.
+- 🌱  I'm currently learning Python, Javascript, React and Many More.
 - 👯  I'm looking to collaborate with other Developers.
 - 🥅  2024 goals: to be an entry level Cyber Security and Front End Expert.
 - 🌩️  Fun fact: I love to play chess, read books, travel, games, design.
